@@ -24,14 +24,14 @@ function Uchastok() {
                 title: "Категория земель",
                 desc: "Земли населенных пунктов",
               },
-              {
-                title: "Территориальная зона",
-                desc: "Сельскохозяйственное использование СХ1",
-              },
-              {
-                title: "Вид разрешенного использования",
-                desc: "Сельскохозяйственное производство",
-              },
+              // {
+              //   title: "Территориальная зона",
+              //   desc: "Сельскохозяйственное использование СХ1",
+              // },
+              // {
+              //   title: "Вид разрешенного использования",
+              //   desc: "Сельскохозяйственное производство",
+              // },
             ].map((item, index) => (
               <motion.div
                 key={index}
@@ -50,7 +50,7 @@ function Uchastok() {
             ))}
           </div>
 
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.6 }}
@@ -100,7 +100,7 @@ function Uchastok() {
                 </motion.div>
               ))}
             </div>
-          </motion.div>
+          </motion.div> */}
         </motion.div>
 
         <motion.div

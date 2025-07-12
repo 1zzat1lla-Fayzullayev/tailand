@@ -13,12 +13,15 @@ function AfterT() {
               Резорт отель 4*
             </h2>
             <p className="text-[25px] md:text-[40px] lg:text-[50px]  font-[600] tracking-[0.6px] pt-[20px]  font-inter max-w-[700px] lg:leading-[50px]">
-              Отель на первой береговой линии в Каспийске
+              Отель на берегу черного моря в Батуми
             </p>
           </div>
         </Wrapper>
       </div>
-        <img src="/Rectangle14.png" className="mt-[80px] w-full hidden md:block" />
+      <img
+        src="/Rectangle14.png"
+        className="mt-[80px] w-full hidden md:block"
+      />
     </>
   );
 }

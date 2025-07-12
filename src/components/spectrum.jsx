@@ -20,31 +20,31 @@ function Spectrum() {
                   услуги:
                 </p>
                 <div className="flex items-start gap-10 pt-7">
-                  <ul>
-                    <li className="font-inter text-[20px] font-[500] list-disc">
+                  <ul className="px-[10px] md:px-0">
+                    <li className="font-inter mt-2 md:mt-0 text-[18px] md:text-[20px] font-[500] list-disc">
                       Архитектура
                     </li>
-                    <li className="font-inter text-[20px] font-[500] list-disc">
+                    <li className="font-inter mt-2 md:mt-0 text-[18px] md:text-[20px] font-[500] list-disc">
                       Дизайн интерьера
                     </li>
-                    <li className="font-inter text-[20px] font-[500] list-disc">
+                    <li className="font-inter mt-2 md:mt-0 text-[18px] md:text-[20px] font-[500] list-disc">
                       Ландшафтный дизайн
                     </li>
-                    <li className="font-inter text-[20px] font-[500] list-disc">
+                    <li className="font-inter mt-2 md:mt-0 text-[18px] md:text-[20px] font-[500] list-disc">
                       Управление строительством
                     </li>
                   </ul>
                   <ul>
-                    <li className="font-inter text-[20px] font-[500] list-disc">
+                    <li className="font-inter mt-2 md:mt-0 text-[18px] md:text-[20px] font-[500] list-disc">
                       Строительство
                     </li>
-                    <li className="font-inter text-[20px] font-[500] list-disc">
+                    <li className="font-inter mt-2 md:mt-0 text-[18px] md:text-[20px] font-[500] list-disc">
                       Энергоаудит
                     </li>
-                    <li className="font-inter text-[20px] font-[500] list-disc">
+                    <li className="font-inter mt-2 md:mt-0 text-[18px] md:text-[20px] font-[500] list-disc">
                       Биофильный дизайн
                     </li>
-                    <li className="font-inter text-[20px] font-[500] list-disc">
+                    <li className="font-inter mt-2 md:mt-0 text-[18px] md:text-[20px] font-[500] list-disc">
                       Закупка планирование
                     </li>
                   </ul>
