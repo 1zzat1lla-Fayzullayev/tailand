@@ -11,7 +11,7 @@ function Spectrum() {
         >
           <Wrapper>
             <div className="flex flex-col md:items-end relative z-5">
-              <div className="font-inter text-white flex flex-col items-end max-w-[500px] justify-end">
+              <div className="font-inter text-white flex flex-col md:items-end max-w-[500px] justify-end">
                 <h2 className="font-inter text-[30px] md:text-[40px] font-[600] md:leading-[45px]">
                   SPECTRUM — это архитектурное бюро полного цикла
                 </h2>
@@ -19,8 +19,8 @@ function Spectrum() {
                   Фирма, базирующаяся в Тбилиси, Грузия, предоставляет следующие
                   услуги:
                 </p>
-                <div className="flex items-start gap-10 pt-7">
-                  <ul className="px-[10px] md:px-0">
+                <div className="flex px-[20px] xl:px-0 flex-col md:flex-row items-start gap-10 pt-7">
+                  <ul className="">
                     <li className="font-inter mt-2 md:mt-0 text-[18px] md:text-[20px] font-[500] list-disc">
                       Архитектура
                     </li>
