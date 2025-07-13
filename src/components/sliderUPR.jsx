@@ -36,7 +36,7 @@ const slides = [
         image: "/sl5.png",
         title: "Alleya Resort, 4*",
         rooms: "112 номеров",
-        location: "Махачкала, Республика Крым",
+        location: "Махачкала, Республика Дагестан",
     },
     {
         image: "/sl6.png",

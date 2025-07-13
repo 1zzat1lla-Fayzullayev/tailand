@@ -18,7 +18,7 @@ function ExtoMedical() {
               viewport={{ once: true, amount: 0.3 }}
               className="text-[30px] md:text-[50px] lg:text-[60px] 2xl:text-[70px] xl:leading-[80px] font-[400] uppercase tracking-[0.6px] font-inter"
             >
-              ethno MEDICAL SPA 4*
+              ETHNO MEDICAL SPA - 4*
             </motion.h2>
 
             <motion.p
@@ -28,8 +28,8 @@ function ExtoMedical() {
               viewport={{ once: true, amount: 0.3 }}
               className="text-[20px] md:text-[25px] lg:text-[32px] max-w-[700px] mt-[25px] font-inter"
             >
-              Курорт для тех, кто ищет не просто отдых, а возможность
-              восстановить здоровье и ощутить гармонию с природой
+              Курорт для тех, кто ищет не просто отдых, а путь к восстановлению
+              здоровья и гармонии с природой
             </motion.p>
 
             <motion.span
@@ -39,7 +39,7 @@ function ExtoMedical() {
               viewport={{ once: true, amount: 0.3 }}
               className="mt-[25px] text-[18px] md:text-[20px] text-[#1E3A8A] bg-white rounded-[13px] px-[20px] py-[10px] font-inter"
             >
-              В Дагестане и на северном кавказе
+              В Дагестане и на Северном Кавказе
             </motion.span>
           </div>
         </Wrapper>
